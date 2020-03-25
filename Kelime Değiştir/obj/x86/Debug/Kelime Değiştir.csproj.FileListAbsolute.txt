@@ -1,0 +1,52 @@
+C:\Users\murat\Desktop\MURAT\New folder\Kelime Değiştir\Kelime Değiştir\bin\Debug\Kelime Değiştir.exe
+C:\Users\murat\Desktop\MURAT\New folder\Kelime Değiştir\Kelime Değiştir\bin\Debug\Kelime Değiştir.pdb
+C:\Users\murat\Desktop\MURAT\New folder\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Form1.resources
+C:\Users\murat\Desktop\MURAT\New folder\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Properties.Resources.resources
+C:\Users\murat\Desktop\MURAT\New folder\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\MURAT\New folder\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.exe
+C:\Users\murat\Desktop\MURAT\New folder\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\I-L\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\I-L\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\I-L\Kelime Değiştir\Kelime Değiştir\bin\Debug\Kelime Değiştir.exe
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\I-L\Kelime Değiştir\Kelime Değiştir\bin\Debug\Kelime Değiştir.pdb
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\I-L\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Form1.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\I-L\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Properties.Resources.resources
+F:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\I-L\Kelime Değiştir\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v1.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v1.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v1.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v1.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v1.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Form1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v1.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Properties.Resources.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v1.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.exe
+C:\Users\Murat Bilginer\Desktop\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.pdb
+C:\Users\Murat Bilginer\Desktop\2 MB Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.exe
+C:\Users\Murat Bilginer\Desktop\2 MB Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.pdb
+C:\Users\Murat Bilginer\Desktop\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Form1.resources
+C:\Users\Murat Bilginer\Desktop\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Form1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Properties.Resources.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csprojResolveAssemblyReference.cache
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.exe
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.pdb
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.exe
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.pdb
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csprojResolveAssemblyReference.cache
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Form1.resources
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Properties.Resources.resources
+G:\x\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\2 MB Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.exe
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.exe
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\bin\Debug\Kelime Değiştir.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime_Değiştir.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\17 Kelime Değiştir v2.0\Kelime Değiştir\obj\x86\Debug\Kelime Değiştir.csproj.GenerateResource.Cache
